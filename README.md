@@ -8,3 +8,4 @@ A collection of basic project templates with different languages and test framew
 - http://www.cyber-dojo.com/setup/show
 - http://codekata.pragprog.com/
 - http://codingkata.net/Katas
+- http://rosettacode.org/wiki/Category:Solutions_by_Programming_Task
