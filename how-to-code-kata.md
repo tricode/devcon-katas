@@ -17,7 +17,7 @@ In order to have a good Code Kata session, first, you are going to need resource
 Session is all about trying to write a program for an algorithm or trying to solve a problem by writing a program for it. Typically, Code Kata starts with [Convey’s Game of Life](http://thinkorthwim.com/2007/05/27/john-conway-talks-about-the-game-of-life/). See more games on [Cyber-Dojo.com](http://www.cyber-dojo.com)
 
 **Step 3**: Pick 10 +/- 2 members.
-Members include pair programmers, advisors, and the facilitator. Note that there has to be a sensei as well, and you can be that person. See [Roles in Code Kata](roles-in-code-katas.md) too.
+Members include pair programmers, advisors, and the facilitator. Note that there has to be a sensei as well, and you can be that person. See [Roles in Code Kata](roles-in-code-kata.md) too.
 
 **Step 4**: Schedule an appointment, invite to all with following details;
 
@@ -34,4 +34,4 @@ The good part about this is; participants get little space to practice the algor
 
 **Step 5**: Happy pair programming!
 
-_original post: http://kosalanuwan.tumblr.com/post/22580882758/how-to-code-kata-in-5-easy-steps _
+_original post: http://kosalanuwan.tumblr.com/post/22580882758/how-to-code-kata-in-5-easy-steps_
