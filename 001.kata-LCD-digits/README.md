@@ -1,13 +1,13 @@
-Kata: LCD digits
-================
+# Kata: LCD digits
+
 This kata project is set-up with:
 - build-system: Gradle
 - language:     Groovy & Java
 - testing:      TestNG & JUnit
 
 
-Assignment
-==========
+## Assignment
+
 Your task is to create an LCD string representation of an
 integer value using a 3x3 grid of space, underscore, and 
 pipe characters for each digit. Each digit is shown below 
