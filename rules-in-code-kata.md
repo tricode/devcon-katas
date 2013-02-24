@@ -12,4 +12,4 @@ Try to keep the code kata session as a social coding event. I didn’t find many
 8. All advisors must participate on the projected code, give ideas to pair programmers.
 9. All advisors must have their turn in pair programming, coding, and help coding.
 
-_original post: http://kosalanuwan.tumblr.com/post/22635055730/what-rules-to-follow-in-code-kata _
+_original post: http://kosalanuwan.tumblr.com/post/22635055730/what-rules-to-follow-in-code-kata_
