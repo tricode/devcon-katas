@@ -1,9 +1,9 @@
-# What are the Roles in Code Kata?
+# What are the Roles in Code Dojo?
 
-These are the roles I have seen in Code Kata;
+These are the roles I have seen in Code Dojo;
 
 **A facilitator**
-Have to make sure resources (in [Step 1](how-to-code-kata.md) are available and ready for the session, could be an advisor, but not the sensei.
+Have to make sure resources (in [Step 1](how-to-code-dojo.md) are available and ready for the session, could be an advisor, but not the sensei.
 
 **A sensei**
 Doesn’t sit with advisors, guides the session like a scrum master ( **important!** there are no students in this session), timebox each pair programming session, to which pairs.

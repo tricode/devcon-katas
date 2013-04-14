@@ -1,6 +1,6 @@
-# How to: Code Kata in 5 easy steps?
+# How to: Code Dojo in 5 easy steps?
 
-In order to have a good Code Kata session, first, you are going to need resources, schedule, and execute the plan. So, here is what I can do for you. I’ll try to put things in very simple steps;
+In order to have a good Code Dojo session, first, you are going to need resources, schedule, and execute the plan. So, here is what I can do for you. I’ll try to put things in very simple steps;
 
 **Step 1**: Followings are the resources required for the session;
 
@@ -14,10 +14,10 @@ In order to have a good Code Kata session, first, you are going to need resource
    _This is to do the programming._
 
 **Step 2**: Pick an algorithm or a small problem.
-Session is all about trying to write a program for an algorithm or trying to solve a problem by writing a program for it. Typically, Code Kata starts with [Convey’s Game of Life](http://thinkorthwim.com/2007/05/27/john-conway-talks-about-the-game-of-life/). See more games on [Cyber-Dojo.com](http://www.cyber-dojo.com)
+Session is all about trying to write a program for an algorithm or trying to solve a problem by writing a program for it. Typically, Code Dojo starts with [Convey’s Game of Life](http://thinkorthwim.com/2007/05/27/john-conway-talks-about-the-game-of-life/). See more games on [Cyber-Dojo.com](http://www.cyber-dojo.com)
 
 **Step 3**: Pick 10 +/- 2 members.
-Members include pair programmers, advisors, and the facilitator. Note that there has to be a sensei as well, and you can be that person. See [Roles in Code Kata](roles-in-code-kata.md) too.
+Members include pair programmers, advisors, and the facilitator. Note that there has to be a sensei as well, and you can be that person. See [Roles in Code Dojo](roles-in-code-dojo.md) too.
 
 **Step 4**: Schedule an appointment, invite to all with following details;
 
@@ -30,7 +30,7 @@ Members include pair programmers, advisors, and the facilitator. Note that there
 4. **Content?**
    _Problem, Roles and Rules in the session, and what to bring for the session._
 
-The good part about this is; participants get little space to practice the algorithm and be prepared. We can synergize all these during the session. See [Rules in Code Kata](rules-in-code-kata.md) too.
+The good part about this is; participants get little space to practice the algorithm and be prepared. We can synergize all these during the session. See [Rules in Code Dojo](rules-in-code-dojo.md) too.
 
 **Step 5**: Happy pair programming!
 
