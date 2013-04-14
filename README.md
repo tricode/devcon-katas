@@ -1,7 +1,14 @@
-# Kata's for Tricode Developer Connection (devcon) sessions
+# Kata's for Coding Dojo sessions during the Tricode Developer Connection (devcon) sessions
 
-## Templates
-A collection of basic project templates with different languages and test frameworks, ready to use.
+    "a Code Dojo is when programmers get together to exercise their craft by solving a problem together. The problem is called a ‘Kata’, analogous to the way these concepts are used in the Karate world."
+
+Another name often used for Coding Dojo is Randori or specificly TDD Randori.
+
+# Code Kata session explained
+
+- [How to: Code Kata in 5 easy steps?](how-to-code-kata.md)
+- [What Rules to follow in Code Kata?](rules-in-code-kata.md)
+- [What are the Roles in Code Kata?](roles-in-code-kata.md)
 
 # Links to kata's
 
@@ -9,9 +16,9 @@ A collection of basic project templates with different languages and test framew
 - http://codekata.pragprog.com/
 - http://codingkata.net/Katas
 - http://rosettacode.org/wiki/Category:Solutions_by_Programming_Task
+- https://sites.google.com/site/tddproblems/all-problems-1
+- https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples
+  Focussed on mocking
 
-# Code Kata session explained
-
-- [How to: Code Kata in 5 easy steps?](how-to-code-kata.md)
-- [What Rules to follow in Code Kata?](rules-in-code-kata.md)
-- [What are the Roles in Code Kata?](roles-in-code-kata.md)
+## Templates
+A collection of basic project templates with different languages and test frameworks, ready to use.
