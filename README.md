@@ -21,4 +21,17 @@ Another name often used for Coding Dojo is Randori or specificly TDD Randori.
   Focussed on mocking
 
 ## Templates
+
 A collection of basic project templates with different languages and test frameworks, ready to use.
+
+# Legenda
+
+- Code Kata
+  An exercise in programming which helps a programmer hone their skills through practice and repetition
+- Code Koan
+  Koans are questions without absolute answers which are used to break down assumptions and reveal underlying truths. The goal of a koan is not the answer, but thinking about the question
+- Code Randori
+  Executing a kata in group form
+- Code Dojo
+   Same as Code Randori
+
