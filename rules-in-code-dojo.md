@@ -1,6 +1,6 @@
-# What Rules to follow in Code Kata?
+# What Rules to follow in Code Dojo?
 
-Try to keep the code kata session as a social coding event. I didn’t find many rules, except followings;
+Try to keep the code dojo session as a social coding event. I didn’t find many rules, except followings;
 
 1. There is no student in the session, everybody is leader.
 2. Facilitator must arrange resources.
