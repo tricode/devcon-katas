@@ -6,9 +6,9 @@ Another name often used for Coding Dojo is Randori or specificly Code Randori.
 
 # Code Dojo session explained
 
-- [How to: Code Dojo in 5 easy steps?](how-to-code-kata.md)
-- [What Rules to follow in Code Dojo?](rules-in-code-kata.md)
-- [What are the Roles in Code Dojo?](roles-in-code-kata.md)
+- [How to: Code Dojo in 5 easy steps?](how-to-code-dojo.md)
+- [What Rules to follow in Code Dojo?](rules-in-code-dojo.md)
+- [What are the Roles in Code Dojo?](roles-in-code-dojo.md)
 
 # Links to Code Katas
 
