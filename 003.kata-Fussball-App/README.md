@@ -40,3 +40,5 @@ Examples of behaviour:
 ## Additional Assignment
 - Be able to make seperate tournaments
 - Real time notification on both (team) phones 
+
+<!-- Important! Add empty line for *nix! -->
