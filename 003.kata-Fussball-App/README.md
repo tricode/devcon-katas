@@ -39,4 +39,4 @@ Examples of behaviour:
 
 ## Additional Assignment
 - Be able to make seperate tournaments
-- Real time notification on both (team) phones
+- Real time notification on both (team) phones 
