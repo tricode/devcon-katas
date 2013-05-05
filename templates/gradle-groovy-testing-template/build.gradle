@@ -2,6 +2,8 @@ apply plugin: 'groovy'
 apply plugin: 'application'
 apply plugin: 'idea'
 
+task wrapper(type: Wrapper)
+
 repositories {
     mavenCentral()
 }
