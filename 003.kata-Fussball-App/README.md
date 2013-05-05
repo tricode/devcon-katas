@@ -12,30 +12,31 @@ Preferabbly make it app-friendly.
 
 Examples of behaviour:
 
-1. *New match*  
-**As a** Player,  
-**I want to** intialize a new match,  
-**in order to** keep score  
-
-2. *List of scores*  
-**As a** Player,  
-**I want to** see a list of scores,  
-**in order to** see how much better I am than my friends  
-
-3. *Add new player*  
+1. *Add new player*  
 **As a** App Owner,  
 **I want to** add a new player,  
 **in order to** have new players be pickable from the app  
+
+2. *Scoring system*  
+**As a** player,  
+**I want to** get individual points for a match,  
+**in order to** to allow for dynamic teams  
+
+3. *New match*  
+**As a** Player,  
+**I want to** intialize a new match,  
+**in order to** keep score  
 
 4. *Keep score*  
 **As a** player,  
 **I want to** keep note of my own score,  
 **in order to** decide when a match is over  
 
-5. *Scoring system*  
-**As a** player,  
-**I want to** get individual points for a match,  
-**in order to** to allow for dynamic teams  
+5. *List of scores*  
+**As a** Player,  
+**I want to** see a list of scores,  
+**in order to** see how much better I am than my friends  
+
 
 ## Additional Assignment
 - Be able to make seperate tournaments
