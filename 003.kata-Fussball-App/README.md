@@ -1,9 +1,9 @@
 # Kata: Fussball App
 
 This kata project is set-up with:
-- build-system: -
-- language:     -
-- testing:      -
+- build-system: Gradle
+- language:     Groovy & Java
+- testing:      TestNG & JUnit (hamcrest available)
 
 ## Assignment
 
